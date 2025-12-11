@@ -23,7 +23,7 @@ I love solving complex problems using:
 #### 🔹 **Impaired Driving Detection Using Multi-Modal Sensor Data (Capstone)**
 Machine learning models trained on **ECG, KSS scores, speeding behavior, BAC levels, and simulator performance** to detect impaired-driving risk.  
 Includes advanced ML, statistical analysis, dashboarding, and storytelling.  
-👉 (https://github.com/Vishaka17/Impaired-Driving-Detection-Research-Study) 
+👉 [Repository](https://github.com/Vishaka17/Impaired-Driving-Detection-Research-Study) 
 📌 *Python • ML • ECG Processing • Power BI • Behavioral Analytics*
 
 #### 🔹 **Credit Risk Assessment & Fraud Detection**
