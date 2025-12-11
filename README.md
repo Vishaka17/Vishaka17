@@ -8,7 +8,7 @@
 
 ### 🌟 About Me
 
-I’m a Business Analytics graduate student passionate about building data-driven solutions that improve real-world decision-making.  
+I’m a Business Analytics Graduate passionate about building data-driven solutions that improve real-world decision-making.  
 My work spans **ETL pipelines, predictive modeling, deep learning, BI dashboards, and analytical storytelling**.
 
 I love solving complex problems using:
