@@ -11,7 +11,7 @@
 I’m a Business Analytics graduate passionate about building data-driven solutions that improve real-world decision-making.  
 My work spans **ETL pipelines, predictive modeling, deep learning, BI dashboards, time-series forecasting, and analytical storytelling**.
 
-I enjoy working across the full analytics lifecycle — from raw data to insights that support business, policy, and operational decisions.
+I enjoy working across the full analytics lifecycle, from raw data to insights that support business, policy, and operational decisions.
 
 ---
 
