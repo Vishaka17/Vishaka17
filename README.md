@@ -8,35 +8,68 @@
 
 ### 🌟 About Me
 
-I’m a Business Analytics Graduate passionate about building data-driven solutions that improve real-world decision-making.  
-My work spans **ETL pipelines, predictive modeling, deep learning, BI dashboards, and analytical storytelling**.
+I’m a Business Analytics graduate passionate about building data-driven solutions that improve real-world decision-making.  
+My work spans **ETL pipelines, predictive modeling, deep learning, BI dashboards, time-series forecasting, and analytical storytelling**.
 
-I love solving complex problems using:
-- Python • SQL • Machine Learning • Deep Learning  
-- Power BI • Tableau • SSIS • Streamlit  
-- Data Engineering • Statistical Modeling
+I enjoy working across the full analytics lifecycle — from raw data to insights that support business, policy, and operational decisions.
 
 ---
 
 ### 🚀 Featured Projects
 
 #### 🔹 **Impaired Driving Detection Using Multi-Modal Sensor Data (Capstone)**
-Machine learning models trained on **ECG, KSS scores, speeding behavior, BAC levels, and simulator performance** to detect impaired-driving risk.  
-Includes advanced ML, statistical analysis, dashboarding, and storytelling.  
-👉 [Repository](https://github.com/Vishaka17/Impaired-Driving-Detection-Research-Study) 
+Machine learning models built on **ECG signals, KSS sleepiness scores, BAC levels, and simulator-based driving behavior** to detect impaired-driving risk.  
+Includes feature engineering, model comparison, and Power BI dashboards for behavioral insights.  
+👉 [Repository](https://github.com/Vishaka17/Impaired-Driving-Detection-Research-Study)
 
-📌 *Python • ML • ECG Processing • Power BI • Behavioral Analytics*
+📌 *Python • Machine Learning • ECG Processing • Power BI • Behavioral Analytics*
+
+---
 
 #### 🔹 **Credit Risk Assessment & Fraud Detection**
-End-to-end DW/BI + ML system:  
-- SSIS ETL → SQL Server DW → SSAS OLAP  
-- Logistic Regression, Random Forest, XGBoost  
-- Interactive Power BI dashboards  
+An end-to-end **data warehouse + machine learning** solution for financial risk analysis.  
+- SSIS ETL pipelines and SQL Server star schema  
+- SSAS OLAP cubes for multidimensional analysis  
+- Fraud prediction using Logistic Regression, Random Forest, and XGBoost  
 👉 [Repository](https://github.com/Vishaka17/Credit-Risk-Assessment-Fraud-Detection)
 
-#### 🔹 **Insurance Customer Segmentation (Streamlit App)**
-Predictive segmentation using K-means, GMM, DBSCAN  
+📌 *Python • SQL Server • SSIS • SSAS • Power BI • Fraud Analytics*
+
+---
+
+#### 🔹 **Insurance Customer Segmentation (Streamlit Web App)**
+Interactive customer segmentation tool built using clustering techniques.  
+Applied **K-Means, GMM, Hierarchical Clustering, and DBSCAN** to identify high-value and price-sensitive insurance customers.  
 👉 [Repository](https://github.com/Vishaka17/Insurance-Customer-Segmentation-Streamlit-Web-App)
+
+📌 *Python • Streamlit • Clustering • EDA • Customer Analytics*
+
+---
+
+#### 🔹 **US Energy Consumption Forecasting**
+Time-series analysis and forecasting of **U.S. commercial and industrial energy consumption (1973–2024)** using SAS.  
+Compared Holt-Winters, regression-based forecasting, and ARIMA to identify the most reliable forecasting approaches.  
+👉 [Repository](https://github.com/Vishaka17/US-Energy-Consumption-Forecasting)
+
+📌 *Time Series • Forecasting • SAS • Energy Analytics*
+
+---
+
+#### 🔹 **Supermarket Sales – Customer Satisfaction Prediction**
+Predictive modeling project analyzing supermarket sales data to classify **satisfied vs. unsatisfied customers**.  
+Implemented Logistic Regression, CART, Neural Networks, Discriminant Analysis, and PCA using **SAS**, with a focus on business insights.  
+👉 [Repository](https://github.com/Vishaka17/Supermarket-Sales-Customer-Satisfaction-Analysis)
+
+📌 *Business Analytics • Classification • PCA • SAS*
+
+---
+
+#### 🔹 **Aqua-Net: Deep Learning for Aquatic Life Classification**
+CNN-based image classification project to identify aquatic species (Dolphins, Jellyfish, Turtles).  
+Applied **data augmentation and transfer learning (EfficientNet)** to improve generalization and accuracy.  
+👉 [Repository](https://github.com/Vishaka17/Aqua-Net-Deep-Learning-Aquatic-Life-Classification)
+
+📌 *Deep Learning • CNN • Computer Vision • Transfer Learning*
 
 ---
 
@@ -46,14 +79,15 @@ Predictive segmentation using K-means, GMM, DBSCAN
 Python (Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib)  
 SQL Server • PostgreSQL • SSIS • SSAS  
 Power BI • Tableau • Streamlit  
-Excel • VBA • Jupyter • Git/GitHub
+SAS • Excel • VBA • Jupyter • Git/GitHub
 
 ---
 
 ### 📫 Connect With Me
-📧 vishsharma36@gmail.com  
-🔗 LinkedIn: [linkedin.com/in/vishaka-sharma17](https://www.linkedin.com/in/vishaka-sharma17/)
+
+📧 **Email:** vishsharma36@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/vishaka-sharma17](https://www.linkedin.com/in/vishaka-sharma17/)
 
 ---
 
-⭐ *Thanks for visiting my profile, feel free to explore my projects!*
+⭐ *Thanks for visiting my profile, feel free to explore the projects and documentation above.*
